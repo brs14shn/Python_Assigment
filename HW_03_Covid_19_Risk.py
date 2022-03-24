@@ -1,6 +1,6 @@
+#COVİD-19 RİSK ESTİMATE
 
-
-Estimating the risk of death from coronavirus  
+"""Estimating the risk of death from coronavirus  
 Consider the following questions in terms of True/False regarding anyone else. 
 Are you a cigarette addict older than 75 years old? Variable → age
 Do you have a severe chronic disease? Variable → chronic
