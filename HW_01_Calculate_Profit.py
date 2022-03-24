@@ -8,3 +8,5 @@ gün_kar=0.07
 anapara=1000
 top_para=anapara*(1+gün_kar)**7
 print(top_para)
+
+
